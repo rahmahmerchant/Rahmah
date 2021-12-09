@@ -26,6 +26,13 @@ body {
     align-items: center;
     
 }
+.clickImage {  
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-left: 27vw;
+    
+}
 
 
 /* .mb-3 {
