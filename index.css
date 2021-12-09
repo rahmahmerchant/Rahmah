@@ -1,0 +1,92 @@
+body {
+    border: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.header {
+    border: 5px solid black;
+    border-radius: 3px;
+    color: white;
+}
+.parentDiv {  
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+
+}
+.mainImage {  
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+
+/* .mb-3 {
+    background-color: rgb(179, 27, 27);
+    border: 0px;
+    width: 50vw;
+    height: 50vh;
+    margin-left: 27vw;
+} */
+
+section.mainText{
+	text-align: center;
+	color: black;
+	padding-left: 10%;
+	padding-right: 10%;
+	
+	
+	
+}
+.mainColumn{
+	
+	color: white;
+	padding-left: 25%;
+	padding-right: 25%;
+	
+	
+	
+}
+.body{
+	
+	color: white;
+	padding-left: 25%;
+	padding-right: 25%;
+	
+	
+	
+}
+section.mainRow{
+	text-align: center;
+	color: black;
+	padding-left: 10%;
+	padding-right: 10%;
+	
+	
+	
+}
+
+
+.card-header {
+    background-color: black;
+}
+.card-body {
+    background-color: rgb(106, 104, 104);
+}
+
+.btn {
+    color: white;
+}
+
+.accordion-div {
+    width: 43vw;
+    height: 50vh;
+    margin-left: 18vw;
+}
