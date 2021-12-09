@@ -97,3 +97,10 @@ section.mainRow{
     height: 50vh;
     margin-left: 18vw;
 }
+
+.yes {  
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    
+}
